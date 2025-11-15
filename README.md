@@ -52,6 +52,20 @@ Includes agent-wise performance, city-level insights, monthly trends, revenue, a
 👉https://github.com/YogaSelvakumar/Healthscore_Predictor
 ---
 
+### 🔹 Sales Performance Analysis of FNP Company (Excel Project)  
+📊 Analyzed company’s sales data using Excel to understand trends, profit insights, and seasonal performance.  
+Includes KPIs, top-performing products, and revenue breakdown.  
+
+👉 https://github.com/YogaSelvakumar/Sales-Performance-Analysis-of-FNP-Company-Using-Microsoft-Excel  
+---
+
+### 🔹 Business Campaign Prediction (Machine Learning Project)  
+🤖 ML classification model predicting whether a customer will subscribe to a marketing campaign.  
+Includes preprocessing, EDA, feature engineering, and model evaluation.  
+
+👉 https://github.com/YogaSelvakumar/BUSINESS-CAMPAIGN-PREDICTION  
+--
+
 # 📜 Certifications  
 ### 🎖 **Data Science & Machine Learning – Knowledge Hive**  
 Completed: **08 November 2025**  
