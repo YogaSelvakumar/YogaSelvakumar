@@ -33,21 +33,23 @@ I enjoy turning raw data into actionable insights through Python, SQL, and visua
 # 🧩 Featured Projects  
 
 ### 🔹 **Customer Call Center Performance Dashboard (Excel Project)**
+
 📊 Interactive dashboard analyzing operational efficiency & customer satisfaction.  
-Includes agent-wise performance, city-level insights, monthly trends, revenue, and ratings.  
-👉 
+Includes agent-wise performance, city-level insights, monthly trends, revenue, and ratings.
+
+👉https://github.com/YogaSelvakumar/Customer_Call_Center_Performance_Dashboard 
 ---
 
 ### 🔹 **Customer Shopping Behavior Analysis (Python + SQL + Power BI)**
 📈 End-to-end project including Python EDA, SQL analysis, and interactive Power BI dashboard.  
-👉 https://github.com/YogaSelvakumar/Customer-Shopping-Behavior-Analysis  
 
+👉 https://github.com/YogaSelvakumar/Customer-Shopping-Behavior-Analysis  
 ---
 
 ### 🔹 **Health Score Prediction (Machine Learning Project)**
 🤖 Machine learning model predicting health score based on user health metrics.  
 
-
+👉https://github.com/YogaSelvakumar/Healthscore_Predictor
 ---
 
 # 📜 Certifications  
